@@ -1,8 +1,4 @@
 #!/data/data/com.termux/files/usr/bin/bash
-# ╔══════════════════════════════════════════════════════════════╗
-# ║        🔐 CYTHON ENCRYPTOR TOOL — Termux Installer          ║
-# ╚══════════════════════════════════════════════════════════════╝
-
 clear
 echo "════════════════════════════════════════════════════════════"
 echo "   🔐  PYTHON ENCRYPTOR TOOL — Requirement Setup"
